@@ -1,0 +1,16 @@
+id: P1BD2934D
+initial_creation_type: input
+source_metadata:
+  title: Mandāravā Series
+  language: bo
+  description: 'Texts about the eighth-century Indian princess Mandāravā (man+DA ra
+    bA), one of the consorts of Guru Padmasambhava:'
+  volume:
+    033319c2f8ee4dbe97179ec3acd14297:
+      title: 'Music to Delight the Ḍākinī: A Praise to the Deathless Mandāravā'
+      parent: Praise
+    1ae0f43ad4414beeb9e8431e1c11506c:
+      title: A Prayer Recounting the Lives and Liberation of the Exalted Ḍākinī Mandāravā
+      parent: Prayers
+created_at: '2022-03-01T02:16:55.628329'
+last_modified_at: '2022-03-01T02:16:55.628332'
